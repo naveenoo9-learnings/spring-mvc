@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-aop-5.3.4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-aop-5.3.4-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-aop-5.3.4-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-aspects-5.3.4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-aspects-5.3.4-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-aspects-5.3.4-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-beans-5.3.4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-beans-5.3.4-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-beans-5.3.4-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-context-5.3.4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-context-5.3.4-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-context-5.3.4-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-context-indexer-5.3.4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-context-indexer-5.3.4-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-context-indexer-5.3.4-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-context-support-5.3.4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-context-support-5.3.4-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-context-support-5.3.4-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-core-5.3.4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-core-5.3.4-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-core-5.3.4-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-expression-5.3.4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-expression-5.3.4-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-expression-5.3.4-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-instrument-5.3.4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-instrument-5.3.4-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-instrument-5.3.4-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-jcl-5.3.4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-jcl-5.3.4-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-jcl-5.3.4-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-jdbc-5.3.4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-jdbc-5.3.4-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-jdbc-5.3.4-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-jms-5.3.4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-jms-5.3.4-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-jms-5.3.4-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-messaging-5.3.4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-messaging-5.3.4-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-messaging-5.3.4-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-orm-5.3.4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-orm-5.3.4-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-orm-5.3.4-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-oxm-5.3.4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-oxm-5.3.4-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-oxm-5.3.4-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-r2dbc-5.3.4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-r2dbc-5.3.4-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-r2dbc-5.3.4-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-test-5.3.4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-test-5.3.4-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-test-5.3.4-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-tx-5.3.4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-tx-5.3.4-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-tx-5.3.4-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-web-5.3.4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-web-5.3.4-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-web-5.3.4-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-webflux-5.3.4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-webflux-5.3.4-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-webflux-5.3.4-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-webmvc-5.3.4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-webmvc-5.3.4-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-webmvc-5.3.4-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-websocket-5.3.4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-websocket-5.3.4-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/spring-5.3.4-dist/spring-framework-5.3.4/libs/spring-websocket-5.3.4-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/Jars/solution-code-spring-mvc-config-files/solution-code-spring-mvc-config-files/spring-mvc/starter-files/spring-mvc-demo/lib/commons-logging-1.2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/Jars/solution-code-spring-mvc-config-files/solution-code-spring-mvc-config-files/spring-mvc/starter-files/spring-mvc-demo/lib/javax.servlet.jsp.jstl-1.2.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/Jars/solution-code-spring-mvc-config-files/solution-code-spring-mvc-config-files/spring-mvc/starter-files/spring-mvc-demo/lib/javax.servlet.jsp.jstl-api-1.2.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Documents/My_Notes/Udemy/Spring and Hibernate/Jars/jar_files/javax.servlet-api-3.1.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
